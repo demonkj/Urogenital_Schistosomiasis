@@ -1,4 +1,3 @@
-
 # Urogenital Schistosomiasis Research Project
 
 ## Project Overview
