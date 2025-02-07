@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This README document provides an overview of the research project on predicting Urogenital Schistosomiasis in rural Kenya. The project aims to analyze various factors that might influence the presence of Urogenital Schistosomiasis among individuals and to develop predictive models for this health condition.
+This README document provides an overview of the research project on predicting Urogenital Schistosomiasis in rural areas. The project aims to analyze various factors that might influence the presence of Urogenital Schistosomiasis among individuals and to develop predictive models for this health condition.
 
 ## Table of Contents
 
