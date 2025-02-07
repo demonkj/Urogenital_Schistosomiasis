@@ -22,7 +22,7 @@ This README document provides an overview of the research project on predicting 
 
 The primary objectives of this research project are as follows:
 
-1. To identify and explore factors that might influence the presence of Urogenital Schistosomiasis in rural Kenya.
+1. To identify and explore factors that might influence the presence of Urogenital Schistosomiasis in rural areas.
 2. To develop predictive models that can accurately predict the likelihood of Urogenital Schistosomiasis based on various predictor variables.
 3. To provide insights that can contribute to understanding the epidemiology and risk factors associated with Urogenital Schistosomiasis.
 
